@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi There 👋
+<img src="https://cdn.thesatoko.me/yoursitee_ch1.png" width="550" height="290">
 
 <!--
 
