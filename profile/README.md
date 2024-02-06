@@ -5,6 +5,12 @@ YourSitee is a modern, customisable and feature-rich bio page service. Our platf
 ## ✨ About
 At YourSitee, we are on a mission to modernize the way professionals showcase their digital presence. Our advanced link-in-bio service allows users to display all their contacts and important information—within a single, sleek page. We believe that a well-curated online presence is essential for success in today's digital age. Our team has been working tirelessly to deliver an exceptional and feature-rich experience.
 
+## 💙 Support Us 
+We are incredibly grateful for your support and commitment to our platform. As a token of our appreciation, for every donation over $5, you will receive a prestigious **Lifetime 💙 Early Supporter** Badge, showcasing your dedication. However, please feel free to donate any amount you desire, as every contribution counts and makes a significant impact. 
+
+* **Please note,** this offer is only available for a limited time and number of badges, after which it will no longer be available.
+* For more information ➜ [click here](https://github.com/sponsors/yoursitee).
+
 ## 🎨 Branding
 Please be sure to only use the official YourSitee logo found in the link below.
 
