@@ -3,7 +3,11 @@ YourSitee is a modern, customisable and feature-rich bio page service. Our platf
 > Ready to try the best Link-in-bio service? We are waiting for you: [our waitlist](https://l.yoursit.ee/waitlist)! 
 
 ## ✨ About
-At YourSitee, we are on a mission to modernize the way professionals showcase their digital presence. Our advanced link-in-bio service allows users to display all their contacts and important information—within a single, sleek page. We believe that a well-curated online presence is essential for success in today's digital age. Our team has been working tirelessly to deliver an exceptional and feature-rich experience.
+At YourSitee, we are revolutionizing the way professionals present themselves online. Our customizable, modern link-in-bio service allows you to consolidate all your essential links, contacts, and content into one beautifully organized page. We understand that in today’s digital landscape, a streamlined online presence is key to standing out. That's why we’ve designed YourSitee to be sleek, intuitive, and feature-rich—empowering you to create a personalized hub that truly reflects your brand.
+
+Whether you're an entrepreneur, content creator, or professional, YourSitee helps you say goodbye to bio link clutter and hello to a clean, engaging digital presence. With our tools, you don’t just create a page; you build something uniquely yours. Ready to elevate your online presence? Build Your Sitee with us.
+
+That's the mission of YourSitee. Beautiful, simple—it's yours. We give you the tools to create something beautiful, you build it.
 
 ## 💙 Support Us 
 We are incredibly grateful for your support and commitment to our platform. As a token of our appreciation, for every donation over $5, you will receive a prestigious **Lifetime 💙 Early Supporter** Badge, showcasing your dedication. However, please feel free to donate any amount you desire, as every contribution counts and makes a significant impact. 
