@@ -10,7 +10,7 @@ Whether you're an entrepreneur, content creator, or professional, YourSitee help
 That's the mission of YourSitee. Beautiful, simple—it's yours. We give you the tools to create something beautiful, you build it.
 
 ## 💙 Support Us 
-We are incredibly grateful for your support and commitment to our platform. As a token of our appreciation, for every donation over $5, you will receive a prestigious **Lifetime 💙 Early Supporter** Badge, showcasing your dedication. However, please feel free to donate any amount you desire, as every contribution counts and makes a significant impact. 
+We are incredibly grateful for your support and commitment to our platform. As a token of our appreciation, for every donation over $10, you will receive a prestigious **Lifetime 💙 Early Supporter** Badge, showcasing your dedication. However, please feel free to donate any amount you desire, as every contribution counts and makes a significant impact. 
 
 * **Please note,** this offer is only available for a limited time and number of badges, after which it will no longer be available.
 * For more information ➜ [click here](https://github.com/sponsors/yoursitee).
