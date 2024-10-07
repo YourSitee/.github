@@ -1,6 +1,5 @@
 # YourSitee  •  The most advanced link-in-bio. Ever.
 YourSitee is a modern, customisable and feature-rich bio page service. Our platform revolutionises the concept of link-in bio services by providing users with an enhanced experience to showcase their content and engage with their audience in innovative ways
-> Ready to try the best Link-in-bio service? We are waiting for you: [our waitlist](https://l.yoursit.ee/waitlist)! 
 
 ## ✨ About
 At YourSitee, we are innovating the way professionals present themselves online. Our customizable, modern link-in-bio service consolidates all your essential links, contacts, and content into one beautifully organized page. In today's digital landscape, a streamlined online presence is key to standing out. That's why we've designed YourSitee to be elegant, intuitive, and feature-rich. It empowers you to create a personalized hub that truly reflects your brand.
