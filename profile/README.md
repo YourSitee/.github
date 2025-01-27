@@ -33,4 +33,4 @@ Follow us! Join our community—be part of it!
 
   
 ![](https://komarev.com/ghpvc/?username=yoursitee&style=flat-square)
-
+![](https://badges.crowdin.net/yoursitee/localized.svg)
